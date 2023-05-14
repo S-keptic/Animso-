@@ -16,7 +16,7 @@ let name1 = document.getElementById('name');
 let inf = new Audio('songs/inferno.mp3');
 let par = new Audio('songs/parasyte.mp3');
 let aot = new Audio('songs/aot.mp3');
-
+ 
 oregai.onclick = ()=>{
 
     oregairu.play();
